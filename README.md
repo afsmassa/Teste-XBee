@@ -1,3 +1,3 @@
 # Teste-XBee
 
-I'm working in my scientific project in network sensors, using XBee and Arduino.
+I'm working on my scientific project about wireless network sensors, using XBee and Arduino.
